@@ -1,3 +1,13 @@
+# Seamless Solution
+
+> a frontend chalenge
+
+## Preview At
+
+<http://tunjioye.github.io/seamless-solution>
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
