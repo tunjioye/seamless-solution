@@ -1,4 +1,5 @@
 import React from 'react';
+import './PageContent.scss';
 
 function PageContent({children}) {
   return (
