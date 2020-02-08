@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/seamless-solution/static/css/main.4c837e1a.chunk.css",
+    "main.js": "/seamless-solution/static/js/main.2a8965e1.chunk.js",
+    "main.js.map": "/seamless-solution/static/js/main.2a8965e1.chunk.js.map",
+    "runtime-main.js": "/seamless-solution/static/js/runtime-main.9eccd825.js",
+    "runtime-main.js.map": "/seamless-solution/static/js/runtime-main.9eccd825.js.map",
+    "static/js/2.13aa99f5.chunk.js": "/seamless-solution/static/js/2.13aa99f5.chunk.js",
+    "static/js/2.13aa99f5.chunk.js.map": "/seamless-solution/static/js/2.13aa99f5.chunk.js.map",
+    "index.html": "/seamless-solution/index.html",
+    "precache-manifest.70a4212f75af06d4971e2882d9acf099.js": "/seamless-solution/precache-manifest.70a4212f75af06d4971e2882d9acf099.js",
+    "service-worker.js": "/seamless-solution/service-worker.js",
+    "static/css/main.4c837e1a.chunk.css.map": "/seamless-solution/static/css/main.4c837e1a.chunk.css.map",
+    "static/js/2.13aa99f5.chunk.js.LICENSE.txt": "/seamless-solution/static/js/2.13aa99f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9eccd825.js",
+    "static/js/2.13aa99f5.chunk.js",
+    "static/css/main.4c837e1a.chunk.css",
+    "static/js/main.2a8965e1.chunk.js"
+  ]
+}
